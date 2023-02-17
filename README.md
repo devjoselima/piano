@@ -9,7 +9,7 @@
 </div>
 
 ## ❔ Descrição:
-
+Um piano virtual feito utilizando apenas Html,CSS e Javascript puros, nele é possível tocar as notas clicando nelas ou por meio do teclado caso ache mais prático.
 
 ## 🚀 Tecnologias:
 
